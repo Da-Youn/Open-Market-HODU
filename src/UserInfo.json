@@ -1,0 +1,13 @@
+[
+	{
+		"username": "buyer1",
+		"password": "hodu0910",
+		"login_type": "BUYER"
+	},
+
+	{
+		"username": "seller1",
+		"password": "hodu0910",
+		"login_type": "SELLER"
+	}
+]
