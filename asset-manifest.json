@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Open-Market-HODU/static/js/main.8afa1b5d.js",
+    "main.js": "/Open-Market-HODU/static/js/main.aad1a6a0.js",
     "static/media/banner_3.jpg": "/Open-Market-HODU/static/media/banner_3.dc23b266c04980a5fdd3.jpg",
     "static/media/banner_1.jpg": "/Open-Market-HODU/static/media/banner_1.39262c4550800b390422.jpg",
     "static/media/banner_2.jpg": "/Open-Market-HODU/static/media/banner_2.56856442000e48ef29d0.jpg",
@@ -11,9 +11,9 @@
     "index.html": "/Open-Market-HODU/index.html",
     "static/media/icon-swiper-1.svg": "/Open-Market-HODU/static/media/icon-swiper-1.778f2e2d9172d7a1ab2b2e8a26d80051.svg",
     "static/media/icon-swiper-2.svg": "/Open-Market-HODU/static/media/icon-swiper-2.52e866003f901787c3ec676e65560343.svg",
-    "main.8afa1b5d.js.map": "/Open-Market-HODU/static/js/main.8afa1b5d.js.map"
+    "main.aad1a6a0.js.map": "/Open-Market-HODU/static/js/main.aad1a6a0.js.map"
   },
   "entrypoints": [
-    "static/js/main.8afa1b5d.js"
+    "static/js/main.aad1a6a0.js"
   ]
 }
